@@ -4,10 +4,7 @@
 
 # COMMAND ----------
 
-# MAGIC %md-sandbox
-# MAGIC ### Creación de Tablas
-# MAGIC 
-# MAGIC En el siguiente ejemplo se muestra como crear una tabla en Azure Databricks
+Testing
 
 # COMMAND ----------
 
